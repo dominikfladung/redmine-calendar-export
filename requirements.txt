@@ -1,0 +1,3 @@
+python-redmine
+icalendar
+python-dotenv
